@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Plugin Name: Breakdance Custom Elements
- * Plugin URI: https://breakdance.com/
- * Description: Boilerplate plugin to save your custom elements created with Element Studio.
- * Author: Breakdance
- * Author URI: https://breakdance.com/
+ * Plugin Name: Breakdance Custom Elements for Atelier Voyages
+ * Plugin URI: https://o3digital.fr/
+ * Description: Elements Breakdance pour Atelier Voyages
+ * Author: o3digital
+ * Author URI: https://o3digital.fr/
  * License: GPLv2
  * Text Domain: breakdance
  * Domain Path: /languages/
